@@ -1,6 +1,6 @@
 \header {
-  title = "כמו"
-  composer = "מעייני ליניק"
+  title = "kmo"
+  composer = "maayan link"
 }
 
 % LilyBin
