@@ -1,6 +1,6 @@
 \header {
-  title = "Untitled"
-  composer = "מעיין ליניק"
+  title = "כמו"
+  composer = "מעייני ליניק"
 }
 
 % LilyBin
