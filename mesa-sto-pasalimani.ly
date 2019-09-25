@@ -5,10 +5,10 @@
 }
 \score{
 	\relative g' {
-		\compoundMeter #'((2 3 2 2 8))
+		\compoundMeter #'((2 2 2 3 8))
 		
 		\mark \default
-				g16 a b c d8 d d 
+		g16 a b c d8 d d 
 
 		d16 c d e c b c d
 		b a b c d c bes a g8 
@@ -16,14 +16,12 @@
 		ees d ees f d8 d' d 
 		c16 d bes c a bes g8
 		g16 f g a f g e8
-		e16 d d c f ees 
-		d8 
-		r 
+		e16 d d c f ees d4 
 		\break
 		\mark \default
 		\bar "||"
 
-		c' b c4 b8 c d b16 a g8
+		c'8 b c4 b8 c d b16 a g8
 		a b c16 b c b d8 a8.    c16 b bes a8
 
 		c b c4 b8 c d b16 a g8
@@ -35,9 +33,6 @@
 		
 		c d d4 d'8 c bes a g 
 		g f16 e f g f ees ees d d8. ees16 d c d8
-		
-		
-		
 	}
 
 	\layout{}
