@@ -4,7 +4,7 @@
 }
 
 % LilyBin
-\score{
+\score {
 <<
 	\time 2/4
 	\chords { 
